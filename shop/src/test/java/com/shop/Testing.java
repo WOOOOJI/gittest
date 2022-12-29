@@ -1,5 +1,5 @@
 package com.shop;
 
-public class Hello{
+public class Testing{
   
 }
