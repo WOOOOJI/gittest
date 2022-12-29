@@ -8,6 +8,8 @@ class ShopApplicationTests {
 
 	@Test
 	void contextLoads() {
+		
+		int mmmm=10;
 	}
 
 }
